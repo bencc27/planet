@@ -4,4 +4,8 @@ class PlanetController < ApplicationController
 
   def contact
   end
+
+# get planet/ejemplo
+  def ejemplo
+  end
 end
